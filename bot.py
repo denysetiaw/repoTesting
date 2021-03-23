@@ -98,7 +98,7 @@ def kafka_lag():
     return message
 
 
-
+#perubahab
 
 if __name__ == '__main__':
 	gas
